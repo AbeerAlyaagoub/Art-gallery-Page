@@ -1,0 +1,73 @@
+
+/**************************
+HEADING
+**************************/
+
+
+
+
+/**************************
+NAVIGATION
+**************************/
+
+.bg-primary {
+    color: #fff!important;
+    background-color: #214f77!important;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-bottom: 7px solid #96c6e0;
+}
+
+
+
+/**************************
+NAVIGATION
+**************************/
+
+#contact {
+    padding:50px 90px;
+}
+.col-sm-4 a {
+    font-size: 20px;
+}
+.fa-stack {
+    color: #96c6e0;
+    font-size: 8rem;
+    cursor: pointer;
+}
+.fa-stack i:hover {
+    color: #b3b3b3;
+}
+.fa-stack a:hover {
+    color: #47506b;
+    text-decoration: none;
+}
+.fa-stack a:visited {
+    color: #804000;
+}
+.btn-danger {
+    background-color: #f4511e;
+    opacity: .7;
+}
+.btn-info {
+    background-color: #777;
+}
+.bg-contact {
+    background-color: #eee;
+}
+.btn-contact {
+    padding-bottom: 60px;
+    background-color: #eee;
+    color: #474e5d;
+}
+.btn-contact button:hover {
+    background: #b3b3b3;
+    color: #1f3d7a;
+}
+.font button {
+    color: #586172;
+}
+
+
